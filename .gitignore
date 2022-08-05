@@ -1,0 +1,5 @@
+
+*.pyc
+bot-env
+*.bat
+*.db
